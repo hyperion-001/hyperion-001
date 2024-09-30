@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI, learning, machine-learning, data storage
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on most things
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I design AI characters
 
