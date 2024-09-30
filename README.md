@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jwomackou
+- 👋 Hi, I’m @hyperion-001
 - 👀 I’m interested in AI, learning, machine-learning, data storage
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on most things
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I design AI characters
 
 <!---
 jwomackou/jwomackou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
