@@ -8,12 +8,6 @@
 𝚛𝚎𝚍_𝚍𝚒𝚜𝚝𝚛𝚒𝚌𝚝
 𝚛𝚊𝚟𝚎𝚗𝚠𝚘𝚘𝚍
 
-RPG systems, or sneaking another piece of brie from the fridge.
-
-Feel free to chat with me about worldbuilding, narrative design, AI, gothic fiction, or anything else - I'm always excited to discuss storytelling and creative development and share what I've learned with others.
-
-*Hyperion*
-
 <!---
 jwomackou/jwomackou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
