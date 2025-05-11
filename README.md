@@ -1,6 +1,10 @@
 # About Me
 
-*I'm Hyperion, a narrative designer and worldbuilder. I use roleplay bots to bring my worlds to life through an immersive narrative environement.*
+𝙷𝚢𝚙𝚎𝚛𝚒𝚘𝚗
+𝚠𝚛𝚒𝚝𝚎𝚛, 𝚛𝚘𝚕𝚎𝚙𝚕𝚊𝚢 𝚋𝚘𝚝 𝚍𝚎𝚜𝚒𝚐𝚗
+
+𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜:
+narrative designer and worldbuilder. I use roleplay bots to bring my worlds to life through an immersive narrative environement.*
 
 **Likes:**
 - History
